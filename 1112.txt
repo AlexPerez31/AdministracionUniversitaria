@@ -1,0 +1,4 @@
+Codigo: 1112
+Nombre: Rodrigo
+Apellido: Berdugo
+Materia: Algoritmos

@@ -1,0 +1,3 @@
+Codigo: 4111
+Nombre: Juan
+Apellido: Vargas
