@@ -1,3 +1,5 @@
+//  Alex Jordan Perez Rojas
+
 #include<iostream>
 #include<stdio.h>
 #include<conio.h>
@@ -796,7 +798,7 @@ cod=0,menu=0,menue=0,cc=0,n=0,con=0,el=0;
 
 			do
 			{
-				cout<<"\nDigite la contraseña\n";
+				cout<<"\nDigite la contraseÃ±a\n";
 				cout<<"10.Regresar al menu principal\n";
 				cin>>con;
 				if (con==123)
@@ -892,7 +894,7 @@ cod=0,menu=0,menue=0,cc=0,n=0,con=0,el=0;
                 }
                 else
                 {
-                    cout<<"\nContraseña incorreta. Intentelo nuevamente";
+                    cout<<"\nContraseÃ±a incorreta. Intentelo nuevamente";
                 }
             }
 			while (con!=123 and con!=10);
